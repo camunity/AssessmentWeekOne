@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WebViewController.h
 //  AssessmentWeekOne
 //
 //  Created by Cameron Flowers on 3/13/15.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface WebViewController : UIViewController
 
+@property NSString *result;
 
 @end
-
